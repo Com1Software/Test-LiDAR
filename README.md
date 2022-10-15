@@ -2,7 +2,8 @@
 
 [ plidar_sdk_go]( https://github.com/goblimey/rplidar_sdk_go)
 
-[ Slamtec RPLIDAR  ](https://www.amazon.com/Slamtec-RPLIDAR-Scanning-Avoidance-Navigation/dp/B07TJW5SXF/ref=asc_df_B07TJW5SXF/?tag=hyprod-20&linkCode=df0&hvadid=385584089652&hvpos=&hvnetw=g&hvrand=17746036695425600631&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1023756&hvtargid=pla-833793200531&psc=1&tag=&ref=&adgrpid=76780761017&hvpone=&hvptwo=&hvadid=385584089652&hvpos=&hvnetw=g&hvrand=17746036695425600631&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1023756&hvtargid=pla-833793200531 )
+Slamtec RPLIDAR A1M8 2D 360 Degree 12 Meters Scanning Radius LIDAR Sensor Scanner for Obstacle Avoidance and Navigation of Robots
+[ Amazon $99.99  ](https://www.amazon.com/Slamtec-RPLIDAR-Scanning-Avoidance-Navigation/dp/B07TJW5SXF/ref=asc_df_B07TJW5SXF/?tag=hyprod-20&linkCode=df0&hvadid=385584089652&hvpos=&hvnetw=g&hvrand=17746036695425600631&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1023756&hvtargid=pla-833793200531&psc=1&tag=&ref=&adgrpid=76780761017&hvpone=&hvptwo=&hvadid=385584089652&hvpos=&hvnetw=g&hvrand=17746036695425600631&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1023756&hvtargid=pla-833793200531 )
 
 [ Distance Detection with the TF-Luna LiDAR and Raspberry Pi ]( https://makersportal.com/blog/distance-detection-with-the-tf-luna-lidar-and-raspberry-pi)
 
