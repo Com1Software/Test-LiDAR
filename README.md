@@ -19,4 +19,5 @@ https://github.com/TFmini
 
 [TF-Luna Instruction Manual - Seeed Studio ](https://files.seeedstudio.com/wiki/Grove-TF_Mini_LiDAR/res/SJ-PM-TF-Luna-A03-Product-Manual.pdf )
 
-<iframe width="300" height="150" src="https://www.youtube.com/embed/QMW1H0owzdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[LiDAR with Arduino - TF-Luna Sensor ]( https://www.youtube.com/watch?v=QMW1H0owzdY&t=8s)
+
