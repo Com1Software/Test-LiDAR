@@ -8,6 +8,8 @@ Slamtec RPLIDAR A1M8 2D 360 Degree 12 Meters Scanning Radius LIDAR Sensor Scanne
 
 https://www.slamtec.ai/home/support/#rplidar-a
 
+https://www.waveshare.com/wiki/RPLIDAR_A1
+
 
 [ Distance Detection with the TF-Luna LiDAR and Raspberry Pi ]( https://makersportal.com/blog/distance-detection-with-the-tf-luna-lidar-and-raspberry-pi)
 
