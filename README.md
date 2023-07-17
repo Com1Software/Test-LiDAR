@@ -13,11 +13,13 @@ https://www.waveshare.com/wiki/RPLIDAR_A1
 SmartFly info TF-Luna Lidar Sensor 0.1-8m Short-Range Distance Single-Point Ranging Finder Module UART / I2C Compatible with Pixhawk and Raspberry Pi for Drone/Robot Obstacle Avoidance
 [ Amazon $25.98 ](https://www.amazon.com/gp/product/B08F55QTWP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
-https://github.com/TFmini
-
 [ Distance Detection with the TF-Luna LiDAR and Raspberry Pi ]( https://makersportal.com/blog/distance-detection-with-the-tf-luna-lidar-and-raspberry-pi)
+
+https://github.com/makerportal/tfluna-python
 
 [TF-Luna Instruction Manual - Seeed Studio ](https://files.seeedstudio.com/wiki/Grove-TF_Mini_LiDAR/res/SJ-PM-TF-Luna-A03-Product-Manual.pdf )
 
 [LiDAR with Arduino - TF-Luna Sensor ]( https://www.youtube.com/watch?v=QMW1H0owzdY&t=8s)
+
+https://github.com/TFmini
 
