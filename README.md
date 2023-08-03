@@ -5,6 +5,10 @@
 DTOF D300 360 Degree 2D Lidar Distance Sensor Kit, 10Hz Scan Rate and 12m Distance Lidar Scanner Module for Smart Obstacle/Robot/Maker Education Indoor/Outdoor
 [Amazon $69.00 ](https://www.amazon.com/DTOF-D300-Distance-Obstacle-Education/dp/B0B1V8D36H/ref=sr_1_44?keywords=WayPonDEV&qid=1691066606&sr=8-44)
 
+https://github.com/YahboomTechnology/DTOF-mini-LiDar
+
+https://www.youtube.com/watch?v=5tVzUyS2hJU
+
 https://www.youtube.com/watch?v=xSrjtJ2AZqw 
 
 https://www.youtube.com/watch?v=MP6TQvWBX9U
