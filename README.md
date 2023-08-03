@@ -1,7 +1,16 @@
 # Test-LiDAR
 
+golang -----------------
+https://pkg.go.dev/github.com/jblindsay/go-spatial/geospatialfiles/lidar
 
-**
+https://gobot.io/documentation/drivers/lidar-lite/
+
+https://github.com/jblindsay/lidario
+
+https://github.com/goblimey/rplidar_sdk_go
+
+---------------------------
+
 DTOF D300 360 Degree 2D Lidar Distance Sensor Kit, 10Hz Scan Rate and 12m Distance Lidar Scanner Module for Smart Obstacle/Robot/Maker Education Indoor/Outdoor
 [Amazon $69.00 ](https://www.amazon.com/DTOF-D300-Distance-Obstacle-Education/dp/B0B1V8D36H/ref=sr_1_44?keywords=WayPonDEV&qid=1691066606&sr=8-44)
 
