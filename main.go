@@ -27,7 +27,8 @@ func main() {
 
 	// Open the first serial port detected at 9600bps N81
 	mode := &serial.Mode{
-		BaudRate: 4800,
+		// BaudRate: 57600,
+		BaudRate: 230400,
 		Parity:   serial.NoParity,
 		DataBits: 8,
 		StopBits: serial.OneStopBit,
@@ -40,7 +41,8 @@ func main() {
 	//	line := ""
 	buff := make([]byte, 1)
 	on := true
-	//n := 0
+	max := 10000
+	cl := 0
 	for on != false {
 		for {
 			n, err := port.Read(buff)
@@ -48,12 +50,18 @@ func main() {
 				log.Fatal(err)
 			}
 			if n == 0 {
-				fmt.Println("\nEOF")
+				fmt.Println("---EOF \nEOF")
 				break
 			}
 
-			fmt.Printf("%s", string(buff[:n]))
+			fmt.Printf("%v", buff[:n])
+			if max > 0 {
+				cl++
+				if cl > max {
+					on = false
+				}
 
+			}
 			// If we receive a newline stop reading
 			if strings.Contains(string(buff[:n]), "\n") {
 				break
