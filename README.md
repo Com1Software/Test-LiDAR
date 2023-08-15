@@ -42,6 +42,8 @@ https://www.slamtec.ai/home/support/#rplidar-a
 
 https://www.waveshare.com/wiki/RPLIDAR_A1
 
+---------------------------
+
 SmartFly info TF-Luna Lidar Sensor 0.1-8m Short-Range Distance Single-Point Ranging Finder Module UART / I2C Compatible with Pixhawk and Raspberry Pi for Drone/Robot Obstacle Avoidance
 [ Amazon $25.98 ](https://www.amazon.com/gp/product/B08F55QTWP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
