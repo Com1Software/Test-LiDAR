@@ -1,5 +1,7 @@
 # Test-LiDAR
 
+https://www.waveshare.com/wiki/DTOF_LIDAR_LD19
+
 golang -----------------
 
 https://pkg.go.dev/github.com/jblindsay/go-spatial/geospatialfiles/lidar
